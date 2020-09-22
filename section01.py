@@ -3,3 +3,7 @@
 
 # 기본 출력
 print('Hello Python!') 
+
+
+# 추가했지롱~
+print("update!")
